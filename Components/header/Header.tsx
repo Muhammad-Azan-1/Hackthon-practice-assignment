@@ -43,7 +43,7 @@ const Header = () => {
       {/* navbar */}
       <div className="w-full  relative h-[90px] max-1:h-[80px] max-2:h-[60px] bg-[#FAFAFA] border-b-[1px] border-b-gray-500 flex items-center justify-center max-1:justify-between max-1:pt-0 pt-[25px]   px-2">
         <div className="">
-          <Image src="/logo.svg" alt="Logo" width={110} height={100}></Image>
+          <Image src="/Logo.svg" alt="Logo" width={110} height={100}></Image>
         </div>
 
         <div
